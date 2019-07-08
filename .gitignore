@@ -1,0 +1,6 @@
+# Folders
+build/
+configuration/__pycache__
+
+# Files
+conanbuildinfo.cmake
